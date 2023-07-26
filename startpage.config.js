@@ -164,10 +164,10 @@
 						"icon": "tabler:brand-github-filled"
 					},
 					{
-						"name": "Vercel",
+						"name": "Remote_Admin",
 						"target": "_blank",
-						"url": "https://vercel.com/login",
-						"icon": "tabler:brand-vercel"
+						"url": "https://remoteadmin.store/login",
+						"icon": "mdi:server"
 					}
 				]
 			},
