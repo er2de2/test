@@ -1,4 +1,5 @@
 {
+
 	"username": "roman",
 	"theme": {
 		"backgroundColor": "#1e1e2e",
@@ -146,9 +147,9 @@
 				"color": "orange",
 				"links": [
 					{
-						"name": "Darkmachine",
+						"name": "KingSite",
 						"target": "_blank",
-						"url": "https://darkmachine.pl",
+						"url": "https://kingsite.pl/",
 						"icon": "game-icons:pirate-skull"
 					},
 					{
@@ -206,10 +207,10 @@
 				"color": "yellow",
 				"links": [
 					{
-						"name": "Reddit",
+						"name": "awesome-selfhosted",
 						"target": "_blank",
-						"url": "https://www.reddit.com/new/",
-						"icon": "ic:baseline-reddit"
+						"url": "https://awesome-selfhosted.net/?ref=selfh.st#",
+						"icon": "carbon:ibm-cloud-dedicated-host"
 					},
 					{
 						"name": "mBank",
@@ -263,4 +264,3 @@
 			}
 		]
 	}
-}
