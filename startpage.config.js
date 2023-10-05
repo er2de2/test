@@ -1,5 +1,4 @@
 {
-
 	"username": "roman",
 	"theme": {
 		"backgroundColor": "#1e1e2e",
@@ -129,9 +128,9 @@
 						"icon": "game-icons:pirate-skull"
 					},
 					{
-						"name": "Files4You",
+						"name": "Zajefajna",
 						"target": "_blank",
-						"url": "https://www.files4you.org/",
+						"url": "https://zajefajna.com/index.php",
 						"icon": "mdi:pirate"
 					},
 					{
@@ -147,7 +146,7 @@
 				"color": "orange",
 				"links": [
 					{
-						"name": "KingSite",
+						"name": "Kingsite",
 						"target": "_blank",
 						"url": "https://kingsite.pl/",
 						"icon": "game-icons:pirate-skull"
@@ -165,10 +164,10 @@
 						"icon": "tabler:brand-github-filled"
 					},
 					{
-						"name": "Remote_Admin",
+						"name": "Vercel",
 						"target": "_blank",
-						"url": "https://remoteadmin.store/login",
-						"icon": "mdi:server"
+						"url": "https://vercel.com/login",
+						"icon": "tabler:brand-vercel"
 					}
 				]
 			},
@@ -207,10 +206,10 @@
 				"color": "yellow",
 				"links": [
 					{
-						"name": "awesome-selfhosted",
+						"name": "Reddit",
 						"target": "_blank",
-						"url": "https://awesome-selfhosted.net/?ref=selfh.st#",
-						"icon": "carbon:ibm-cloud-dedicated-host"
+						"url": "https://www.reddit.com/new/",
+						"icon": "ic:baseline-reddit"
 					},
 					{
 						"name": "mBank",
@@ -219,10 +218,10 @@
 						"icon": "ph:bank-fill"
 					},
 					{
-						"name": "eko.one",
+						"name": "Openwrt",
 						"target": "_blank",
 						"url": "https://eko.one.pl/",
-						"icon": "simple-icons:openwrt"
+						"icon": "material-symbols:vpn-key"
 					},
 					{
 						"name": "Cloudflare",
@@ -257,10 +256,11 @@
 					{
 						"name": "Jellyfin",
 						"target": "_blank",
-						"url": "http://fujitsu.dom.lilobanasik.ovh:8096",
+						"url": "http://jellyfin.dom:8096",
 						"icon": "simple-icons:jellyfin"
 					}
 				]
 			}
 		]
 	}
+}
