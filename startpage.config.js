@@ -1,23 +1,23 @@
 {
 	"username": "roman",
 	"theme": {
-		"backgroundColor": "#1e1e2e",
-		"windowColor": "#1e1e2e",
-		"glowColor": "#f5c2e7",
-		"white": "#cdd6f4",
-		"gray": "#6c7086",
-		"black": "#313244",
-		"red": "#f38ba8",
-		"green": "#a6e3a1",
-		"blue": "#89b4fa",
-		"yellow": "#f9e2af",
-		"cyan": "#94e2d5",
-		"magenta": "#74c7ec",
-		"violet": "#cba6f7",
-		"orange": "#fab387"
+		"backgroundColor": "#100F0F",
+		"windowColor": "#100F0F",
+		"glowColor": "#4385BE",
+		"white": "#CECDC3",
+		"gray": "#878580",
+		"black": "#100F0F",
+		"red": "#AF3029",
+		"green": "#66800B",
+		"yellow": "#AD8301",
+		"blue": "#205EA6",
+		"cyan": "#24837B",
+		"magenta": "#A02F6F",
+		"violet": "#5E409D",
+		"orange": "#BC5215"
 	},
 	"wallpaper": {
-		"url": "https://raw.githubusercontent.com/er2de2/test/main/waves.png",
+		"url": "https://raw.githubusercontent.com/er2de2/test/main/dark.png",
 		"easing": "ease-in-out",
 		"fadeIn": true,
 		"blur": false
@@ -221,7 +221,7 @@
 						"name": "Openwrt",
 						"target": "_blank",
 						"url": "https://eko.one.pl/",
-						"icon": "material-symbols:vpn-key"
+						"icon": "simple-icons:openwrt"
 					},
 					{
 						"name": "Cloudflare",
@@ -256,7 +256,7 @@
 					{
 						"name": "Jellyfin",
 						"target": "_blank",
-						"url": "http://jellyfin.dom:8096",
+						"url": "http://192.168.1.2:8096",
 						"icon": "simple-icons:jellyfin"
 					}
 				]
