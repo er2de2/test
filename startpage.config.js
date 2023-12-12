@@ -3,7 +3,7 @@
 	"theme": {
 		"backgroundColor": "#100F0F",
 		"windowColor": "#100F0F",
-		"glowColor": "#4385BE",
+		"glowColor": "#008f11",
 		"white": "#CECDC3",
 		"gray": "#878580",
 		"black": "#100F0F",
@@ -17,7 +17,7 @@
 		"orange": "#BC5215"
 	},
 	"wallpaper": {
-		"url": "https://raw.githubusercontent.com/er2de2/test/main/dark.png",
+		"url": "https://raw.githubusercontent.com/er2de2/test/main/matrix-356024.jpg",
 		"easing": "ease-in-out",
 		"fadeIn": true,
 		"blur": false
@@ -124,7 +124,7 @@
 					{
 						"name": "Darkbox",
 						"target": "_blank",
-						"url": "https://darkbox.vip/",
+						"url": "https://darkbox.to/",
 						"icon": "game-icons:pirate-skull"
 					},
 					{
@@ -164,9 +164,9 @@
 						"icon": "tabler:brand-github-filled"
 					},
 					{
-						"name": "Vercel",
+						"name": "pleaks",
 						"target": "_blank",
-						"url": "https://vercel.com/login",
+						"url": "https://pleaks.se/",
 						"icon": "tabler:brand-vercel"
 					}
 				]
@@ -206,10 +206,10 @@
 				"color": "yellow",
 				"links": [
 					{
-						"name": "Reddit",
+						"name": "Docker",
 						"target": "_blank",
-						"url": "https://www.reddit.com/new/",
-						"icon": "ic:baseline-reddit"
+						"url": "https://hub.docker.com/",
+						"icon": "mdi:docker"
 					},
 					{
 						"name": "mBank",
@@ -236,9 +236,9 @@
 				"color": "red",
 				"links": [
 					{
-						"name": "Viaplay",
+						"name": "NPM",
 						"target": "_blank",
-						"url": "https://viaplay.pl/pl-pl/",
+						"url": "https://nginx.lilobanasik.ovh/",
 						"icon": "solar:play-circle-outline"
 					},
 					{
@@ -256,7 +256,7 @@
 					{
 						"name": "Jellyfin",
 						"target": "_blank",
-						"url": "http://192.168.1.2:8096",
+						"url": "https://jellyfin.lilobanasik.ovh",
 						"icon": "simple-icons:jellyfin"
 					}
 				]
